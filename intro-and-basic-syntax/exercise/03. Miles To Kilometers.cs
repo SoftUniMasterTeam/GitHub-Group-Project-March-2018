@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MilesToKilometers
+namespace Problem MilesToKilometers
 {
     class Program
     {
