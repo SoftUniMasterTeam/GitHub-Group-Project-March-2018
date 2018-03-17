@@ -15,11 +15,11 @@ namespace _04.Beverage_Labels
             double energyContentPer100ML = int.Parse(Console.ReadLine());
             double sugarContentPer100ML = int.Parse(Console.ReadLine());
 
-            double kcal = (volume / 100) * energyContentPer100ML;
-            double sugars = (volume / 100) * sugarContentPer100ML;
+            double kcalAmount = (volume / 100) * energyContentPer100ML;
+            double sugarsAmount = (volume / 100) * sugarContentPer100ML;
 
             Console.WriteLine("{0}ml {1}:", volume, name);
-            Console.WriteLine("{0}kcal, {1}g sugars", kcal, sugars);
+            Console.WriteLine("{0}kcal, {1}g sugars", kcalAmount, sugarsAmount);
         }
     }
 }
