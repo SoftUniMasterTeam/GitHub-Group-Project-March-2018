@@ -11,14 +11,14 @@ namespace _5
         static void Main(string[] args)
         {
             var name = Console.ReadLine();
-            var curH = int.Parse(Console.ReadLine());
-            var maxH = int.Parse(Console.ReadLine());
-            var curE = int.Parse(Console.ReadLine());
-            var maxE = int.Parse(Console.ReadLine());
+            var currentHealth = int.Parse(Console.ReadLine());
+            var maxHealth = int.Parse(Console.ReadLine());
+            var currrentEnergy = int.Parse(Console.ReadLine());
+            var maxEnergy = int.Parse(Console.ReadLine());
 
             Console.WriteLine($"Name: {name}");
-            Console.WriteLine("Health: |" + new string('|', curH) + new string('.', maxH - curH) + '|');
-            Console.WriteLine("Energy: |" + new string('|', curE) + new string('.', maxE - curE) + '|');
+            Console.WriteLine("Health: |" + new string('|', currentHealth) + new string('.', maxHealth - currentHealth) + '|');
+            Console.WriteLine("Energy: |" + new string('|', currrentEnergy) + new string('.', maxEnergy - currrentEnergy) + '|');
         }
     }
 }
