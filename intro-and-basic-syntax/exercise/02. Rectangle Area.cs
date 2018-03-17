@@ -10,9 +10,11 @@ namespace _2
     {
         static void Main(string[] args)
         {
+            // * Reading from Console rectangle sides in double format
             var a = double.Parse(Console.ReadLine());
             var b = double.Parse(Console.ReadLine());
 
+            // * Calculating the rectangle area and printing the area formatted to the second digit after the decimal point 
             Console.WriteLine("{0:F2}", a * b);
         }
     }
