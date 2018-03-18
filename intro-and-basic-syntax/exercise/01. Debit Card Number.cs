@@ -1,4 +1,4 @@
-﻿// CONFIRMED from DKitov
+﻿//CONFIRMED from Yagorundy
 using System;
 
 namespace _01._Debit_Card_Number
