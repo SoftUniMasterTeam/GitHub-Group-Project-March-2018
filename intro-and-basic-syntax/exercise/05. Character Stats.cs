@@ -11,11 +11,11 @@ namespace _5
         static void Main(string[] args)
         {
             //Reading the input from the console 
-            var name = Console.ReadLine();
-            var ObichamTarator = int.Parse(Console.ReadLine()); // Changed currentHealth -> ObichamTarator
-            var maxHealth = int.Parse(Console.ReadLine());
-            var currrentEnergy = int.Parse(Console.ReadLine());
-            var maxEnergy = int.Parse(Console.ReadLine());
+            var name1 = Console.ReadLine();
+            var ObichamTarator1 = int.Parse(Console.ReadLine()); // Changed currentHealth -> ObichamTarator
+            var maxHealth1 = int.Parse(Console.ReadLine());
+            var currrentEnergy1 = int.Parse(Console.ReadLine());
+            var maxEnergy1 = int.Parse(Console.ReadLine());
 
 
             //Printing the information
