@@ -1,4 +1,4 @@
-# GitHub-Group-Project-March-2018
+﻿
 This is our first project with some ex. for git  hub.
 ## Exercises: C# Intro and Basic Syntax
 
@@ -117,7 +117,8 @@ character after the decimal point**.
 
 61.65
 
-### Problem 3.                
+### Problem 3.   
+Nasko K             
 Miles to Kilometers
 
 Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2
