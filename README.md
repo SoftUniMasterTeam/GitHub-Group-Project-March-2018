@@ -117,8 +117,7 @@ character after the decimal point**.
 
 61.65
 
-### Problem 3.   
-Nasko K             
+### Problem 3.             
 Miles to Kilometers
 
 Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2
@@ -239,7 +238,8 @@ Nuka-Cola Quantum
 
 2100kcal, 490g sugars
 
-### Problem 5.                
+### Problem 5.      
+NaskoK          
 * Character Stats
 
 Write a program, which **displays information** about a video game character. You will receive
